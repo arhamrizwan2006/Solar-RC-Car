@@ -58,16 +58,16 @@ floating sense-pin issue that caused incorrect voltage readings.
 ## Demo
 
 ### Live Stats — At Rest
-![Stats at rest](images/stats_at_rest.png)
+![Stats at rest](images/Stats_Monitoring_at_Rest.png)
 
 ### Live Stats — In Motion
-![Stats in motion](images/stats_in_motion.png)
+![Stats in motion](images/Stats_Monitoring_in_Motion.png)
 
 ### Car Driving
-`images/car_driving.mp4` (click to download/view — GitHub doesn't auto-play mp4 in README)
+`images/Car_Driving.mp4` (click to download/view — GitHub doesn't auto-play mp4 in README)
 
 ### Voltage Monitoring While Working
-`images/voltage_monitoring.mp4` (click to download/view — GitHub doesn't auto-play mp4 in README)
+`images/Voltage_Monitoring_While_Working.mp4` (click to download/view — GitHub doesn't auto-play mp4 in README)
 
 ## What I Learned
 - I2C communication and resolving address conflicts between multiple sensors
